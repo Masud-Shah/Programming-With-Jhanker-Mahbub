@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\JhankerMahabub\BolodToBoss\DataStructure\Stack\Stack\bin\Debug\Stack.exe.config
+F:\Programming With DOT NET\JhankerMahabub\BolodToBoss\DataStructure\Stack\Stack\bin\Debug\Stack.exe
+F:\Programming With DOT NET\JhankerMahabub\BolodToBoss\DataStructure\Stack\Stack\bin\Debug\Stack.pdb
+F:\Programming With DOT NET\JhankerMahabub\BolodToBoss\DataStructure\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\JhankerMahabub\BolodToBoss\DataStructure\Stack\Stack\obj\Debug\Stack.exe
+F:\Programming With DOT NET\JhankerMahabub\BolodToBoss\DataStructure\Stack\Stack\obj\Debug\Stack.pdb
