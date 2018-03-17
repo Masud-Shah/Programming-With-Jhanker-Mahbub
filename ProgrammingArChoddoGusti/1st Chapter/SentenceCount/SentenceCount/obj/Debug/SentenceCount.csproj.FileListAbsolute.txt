@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\SentenceCount\SentenceCount\bin\Debug\SentenceCount.exe.config
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\SentenceCount\SentenceCount\bin\Debug\SentenceCount.exe
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\SentenceCount\SentenceCount\bin\Debug\SentenceCount.pdb
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\SentenceCount\SentenceCount\obj\Debug\SentenceCount.exe
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\SentenceCount\SentenceCount\obj\Debug\SentenceCount.pdb
