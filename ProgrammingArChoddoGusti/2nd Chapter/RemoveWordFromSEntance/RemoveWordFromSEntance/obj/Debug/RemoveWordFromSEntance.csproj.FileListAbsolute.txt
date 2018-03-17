@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\Second\RemoveWordFromSEntance\RemoveWordFromSEntance\bin\Debug\RemoveWordFromSEntance.exe.config
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\Second\RemoveWordFromSEntance\RemoveWordFromSEntance\bin\Debug\RemoveWordFromSEntance.exe
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\Second\RemoveWordFromSEntance\RemoveWordFromSEntance\bin\Debug\RemoveWordFromSEntance.pdb
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\Second\RemoveWordFromSEntance\RemoveWordFromSEntance\obj\Debug\RemoveWordFromSEntance.exe
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\Second\RemoveWordFromSEntance\RemoveWordFromSEntance\obj\Debug\RemoveWordFromSEntance.pdb
