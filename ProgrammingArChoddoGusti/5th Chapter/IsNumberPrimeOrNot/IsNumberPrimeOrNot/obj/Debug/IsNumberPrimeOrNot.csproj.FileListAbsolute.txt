@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\5th Chapter\IsNumberPrimeOrNot\IsNumberPrimeOrNot\bin\Debug\IsNumberPrimeOrNot.exe.config
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\5th Chapter\IsNumberPrimeOrNot\IsNumberPrimeOrNot\bin\Debug\IsNumberPrimeOrNot.exe
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\5th Chapter\IsNumberPrimeOrNot\IsNumberPrimeOrNot\bin\Debug\IsNumberPrimeOrNot.pdb
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\5th Chapter\IsNumberPrimeOrNot\IsNumberPrimeOrNot\obj\Debug\IsNumberPrimeOrNot.exe
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\5th Chapter\IsNumberPrimeOrNot\IsNumberPrimeOrNot\obj\Debug\IsNumberPrimeOrNot.pdb
