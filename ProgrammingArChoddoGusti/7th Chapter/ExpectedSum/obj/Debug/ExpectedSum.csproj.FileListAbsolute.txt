@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\7th Chapter\ExpectedSum\bin\Debug\ExpectedSum.exe.config
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\7th Chapter\ExpectedSum\bin\Debug\ExpectedSum.exe
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\7th Chapter\ExpectedSum\bin\Debug\ExpectedSum.pdb
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\7th Chapter\ExpectedSum\obj\Debug\ExpectedSum.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\7th Chapter\ExpectedSum\obj\Debug\ExpectedSum.exe
+F:\Programming With DOT NET\JhankerMahabub\ProgrammingArChodduoGushti\7th Chapter\ExpectedSum\obj\Debug\ExpectedSum.pdb
